@@ -1,2 +1,0 @@
-# Raport
-Norris Rapport 
